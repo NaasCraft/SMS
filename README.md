@@ -34,4 +34,12 @@ __Etat de la recherche__
 ****
 
 Articles proposés :
-+ 
++ __Short-term load forecasting based on a
+semi-parametric additive model__. Shu Fan and Rob J. Hyndman
++ __Short-term electricity load forecasting with
+generalized additive models__. A. Pierrot and Y. Goude
++ __Distributional modeling and short-term forecasting of electricity
+prices by generalized additive models for location, scale and shape__. F. Serinaldi
+
+Livre sur les _GAM_ :
++ __Generalized Additive Models, An Introduction with R__. S.N. Wood
