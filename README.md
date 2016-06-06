@@ -5,11 +5,9 @@ Réalisé par : Elvire Robin, Charles Cony, Guillaume Demonet.
 Proposé par : Amandine Pierrot
 Encadré par : Pierre Alquier
 
-![logo-ensae](https://upload.wikimedia.org/wikipedia/commons/2/22/ENSAE_logo_developpe.jpg)
-
 ## Prévision avec les modèles _GAM_
 
-Application aux données de la compétition *__G__lobal __E__nergy __F__orecasting __COM__petition 2014*.
+Application aux données de la compétition __G__lobal __E__nergy __F__orecasting __COM__petition 2014.
 
 ### Prévision de consommation électrique
 
