@@ -17,7 +17,7 @@ __Données fournies__
 Sur la période __01/01/2005 00:00__ - __31/12/2011 23:00__ (et commençant au 01/01/2001 00:00 pour les températures), au pas horaire.
 
 | Nom | Description | Type |
-| --- | --- |
+| --- | --- | --- |
 | `LOAD` | Consommation électrique | _float_ |
 | `heure` | Heure (0-23) | _int_ |
 | `date` | Date (MM/DD/YYYY) | _string_ (à convertir) |
