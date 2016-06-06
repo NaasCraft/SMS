@@ -11,8 +11,8 @@ Application aux données de la compétition **G**lobal **E**nergy **F**orecastin
 
 ### Prévision de consommation électrique
 
-__Données fournies__
 ****
+__Données fournies__
 
 Sur la période __01/01/2005 00:00__ - __31/12/2011 23:00__ (et commençant au 01/01/2001 00:00 pour les températures), au pas horaire.
 
@@ -23,13 +23,13 @@ Sur la période __01/01/2005 00:00__ - __31/12/2011 23:00__ (et commençant au 0
 | `date` | Date (MM/DD/YYYY) | _string_ (à convertir) |
 | `w_X_` | Température à la station _X_ (de 1 à 25) | _int_ |
 
-__Objectif__
 ****
+__Objectif__
 
 Prévision au pas horaire sur l'année 2011 de `LOAD` en espérance, à l'horizon M+1, c'est-à-dire mois-à-mois (prévision de Janvier avec données jusque Décembre complet).
 
-__Etat de la recherche__
 ****
+__Etat de la recherche__
 
 Articles proposés :
 + __Short-term load forecasting based on a
@@ -42,8 +42,8 @@ prices by generalized additive models for location, scale and shape__. F. Serina
 Livre sur les _GAM_ :
 + __Generalized Additive Models, An Introduction with R__. S.N. Wood
 
-__Etapes__
 ****
+__Etapes__
 
 1. Lire les articles et les tutos (survoler le livre de Wood)
 2. Observation des données et GAM pour les interactions
@@ -53,3 +53,4 @@ __Etapes__
     c. Validation
 4. Rédaction du rapport (15-20 pages) et commenter le code R proprement.
 
+****
