@@ -43,3 +43,15 @@ prices by generalized additive models for location, scale and shape__. F. Serina
 
 Livre sur les _GAM_ :
 + __Generalized Additive Models, An Introduction with R__. S.N. Wood
+
+__Etapes__
+****
+
+1. Lire les articles et les tutos (survoler le livre de Wood)
+2. Observation des données et GAM pour les interactions
+3. Modèle de prévision
+    a. Conception du modèle
+    b. Sélection des variables
+    c. Validation
+4. Rédaction du rapport (15-20 pages) et commenter le code R proprement.
+
