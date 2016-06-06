@@ -7,7 +7,7 @@ Encadré par : Pierre Alquier
 
 ## Prévision avec les modèles _GAM_
 
-Application aux données de la compétition __G__lobal __E__nergy __F__orecasting __COM__petition 2014.
+Application aux données de la compétition **G**lobal **E**nergy **F**orecasting **COM**petition 2014.
 
 ### Prévision de consommation électrique
 
